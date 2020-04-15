@@ -3,6 +3,5 @@ public class Main{
 		//hello world
 		//second
 		//at home
-		//hi jmin
 	}
 }
